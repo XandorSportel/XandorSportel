@@ -1,7 +1,7 @@
 # Hello there! 👋 I am **Xandor Sportel**
 
 Full time **Software Engineering Student**
-My portfolio can be found here: **https://xsportel.nl**
+My portfolio can be found here: <a href="https://xsportel.nl" target="_blank">Portfolio</a>
 
 ---
 
