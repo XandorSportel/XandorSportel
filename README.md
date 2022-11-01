@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hello there! 👋 I am **Xandor Sportel**
 
-<!--
-**XandorSportel/XandorSportel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full time **Software Engineering Student**
+My portfolio can be found here: **https://xsportel.nl**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **📊 Stats**
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XandorSportel&show_icons=true&theme=monokai&count_private=true"
+            alt="My Github stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XandorSportel&theme=monokai"
+            alt="My Github commit streak">
+    </a>
+    <a href="https://wakatime.com/@XandorSportel/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=XandorSportel8&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Wakatime last year stats">
+    </a>
+</div>
+
+---
+
+## **📫 How to reach me**
+
+<div align="center" style="text-align:center">
+    <a href="mailto:xandorsportel31@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="My Gmail">
+    </a>
+    <a href="https://wakatime.com/@XandorSportel/">
+        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
+            alt="My Wakatime">
+    </a>
+    <a href="https://www.linkedin.com/in/xandor-sportel-204684244/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="My LinkedIn">
+    </a>
+</div>
