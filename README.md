@@ -15,13 +15,13 @@ My portfolio can be found here: <a href="https://xsportel.nl" target="_blank">Po
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XandorSportel&theme=monokai"
             alt="My Github commit streak">
     </a>
-    <!-- <a href="https://wakatime.com/@XandorSportel/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=XandorSportel8&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="Wakatime last year stats">
-    </a> -->
     <a href="https://wakatime.com/@1b07e5dc-0cfc-4f05-9ea1-cf75986132d3">
-        <img src="https://wakatime.com/badge/user/1b07e5dc-0cfc-4f05-9ea1-cf75986132d3.svg" alt="Time coding" />
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=1b07e5dc-0cfc-4f05-9ea1-cf75986132d38&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Wakatime last year stats">
     </a>
+    <!-- <a href="https://wakatime.com/@1b07e5dc-0cfc-4f05-9ea1-cf75986132d3">
+        <img src="https://wakatime.com/badge/user/1b07e5dc-0cfc-4f05-9ea1-cf75986132d3.svg" alt="Time coding" />
+    </a> -->
 </div>
 
 ---
