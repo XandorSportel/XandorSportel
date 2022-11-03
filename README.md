@@ -20,7 +20,7 @@ My portfolio can be found here: <a href="https://xsportel.nl" target="_blank">Po
             alt="Wakatime last year stats">
     </a> -->
     <a href="https://wakatime.com/@1b07e5dc-0cfc-4f05-9ea1-cf75986132d3">
-        <img src="https://wakatime.com/badge/user/1b07e5dc-0cfc-4f05-9ea1-cf75986132d3.svg" alt="Wakatime stats" />
+        <img src="https://wakatime.com/badge/user/1b07e5dc-0cfc-4f05-9ea1-cf75986132d3.svg" alt="Time coding" />
     </a>
 </div>
 
