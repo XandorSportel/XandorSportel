@@ -22,7 +22,7 @@ My portfolio can be found here: <a href="https://xsportel.nl" target="_blank">Po
         <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=1b07e5dc-0cfc-4f05-9ea1-cf75986132d38&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="Wakatime last year stats">
     </a> -->
-    <a href="https://wakatime.com/@1b07e5dc-0cfc-4f05-9ea1-cf75986132d3">
+    <a href="https://wakatime.com/@1b07e5dc-0cfc-4f05-9ea1-cf75986132d3" target="_blank">
         <img src="https://wakatime.com/badge/user/1b07e5dc-0cfc-4f05-9ea1-cf75986132d3.svg?style=for-the-badge" alt="Total time coded since Nov 1 2022" />
     </a>
 </div>
@@ -36,11 +36,11 @@ My portfolio can be found here: <a href="https://xsportel.nl" target="_blank">Po
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="My Gmail">
     </a>
-    <a href="https://wakatime.com/@XandorSportel/">
+    <a href="https://wakatime.com/@XandorSportel/" target="_blank">
         <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
             alt="My Wakatime">
     </a>
-    <a href="https://www.linkedin.com/in/xandor-sportel-204684244/">
+    <a href="https://www.linkedin.com/in/xandor-sportel-204684244/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="My LinkedIn">
     </a>
