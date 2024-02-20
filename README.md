@@ -14,7 +14,7 @@ Hello! Here you can find all my open source projects. <br>
     </a>
 </div>
 <div align="center" style="text-align:center">
-    <a href="joxydev.xyz">
+    <a href="https://joxydev.xyz">
         <img height=170rem src="https://github-readme-stats-sandy-nine-59.vercel.app/api?username=XandorSportel&theme=react&show_icons=true&hide_border=true"/>
         <img height=170rem src="https://github-readme-stats-sandy-nine-59.vercel.app/api/top-langs?username=XandorSportel&theme=react&show_icons=true&hide_border=true&layout=compact"/>
     </a>
